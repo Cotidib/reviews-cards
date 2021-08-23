@@ -16,7 +16,7 @@ const Review = () => {
         {
             setCurrentReviewIndex(currentReviewIndex+1)
         }  
-    })
+    },[currentReviewIndex]);
 
     const prevRev = () => {
         if(currentReviewIndex === 0)
@@ -27,7 +27,7 @@ const Review = () => {
         {
             setCurrentReviewIndex(currentReviewIndex-1)
         }  
-    }
+    };
 
     const randomRev = () => {
         let randomIndex = Math.floor(Math.random() * album.length);

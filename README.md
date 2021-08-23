@@ -1,4 +1,4 @@
-# tour-finder
+# reviews-slider
 Practice project made with React Js and React Hooks
 
 This is my version of the Reviews project in ['Code 15 React Projects' course by John Smilga](https://youtu.be/a_7Z7C_JCyo).

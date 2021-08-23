@@ -10,6 +10,4 @@ The main React functionalities I learned are how to dynamically display the next
 
 ### Live Site
 
-
-
-
+https://constanzas-reviews-slider.netlify.app/

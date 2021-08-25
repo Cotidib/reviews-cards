@@ -11,3 +11,10 @@ The main React functionalities I learned are how to dynamically display the next
 ### Live Site
 
 https://constanzas-reviews-slider.netlify.app/
+
+### Resources
+
+[React Icons](https://react-icons.github.io/react-icons/)
+```
+npm install react-icons --save
+``` 

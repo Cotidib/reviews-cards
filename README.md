@@ -1,4 +1,4 @@
-# reviews-slider
+# reviews-cards
 Practice project made with React Js and React Hooks
 
 This is my version of the Reviews project in ['Code 15 React Projects' course by John Smilga](https://youtu.be/a_7Z7C_JCyo).
@@ -10,7 +10,7 @@ The main React functionalities I learned are how to dynamically display the next
 
 ### Live Site
 
-https://constanzas-reviews-slider.netlify.app/
+https://constanzas-reviews-cards.netlify.app/
 
 ### Resources
 
